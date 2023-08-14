@@ -1,4 +1,4 @@
-import {Title, Container, Selector, Cleaner} from './style.js';
+import {Title, Container, Selector, Cleaner} from './style';
 import PropTypes from 'prop-types';
 
 function Filter({ languages, currentLanguage, onClick }){
